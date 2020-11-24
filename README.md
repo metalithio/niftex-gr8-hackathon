@@ -1,6 +1,6 @@
 # niftex-gr8-hackathon
 
-NIFTEX bounties for https://gitcoin.co/hackathon/gr8
+NIFTEX.com bounties for https://gitcoin.co/hackathon/gr8 (see Issues)
 
 Resources
 - Blog https://blog.niftex.com
